@@ -47,7 +47,7 @@ Generate a 1-paragraph specification for an email validation function. Requireme
 
 ### 🔹 Output (Screenshot):
 
-![CLI Screenshot](./assets/cli-output.png)
+![CLI Screenshot](cli-output.png)
 
 ---
 
@@ -74,5 +74,6 @@ This task helped me understand that modern development is no longer just about w
 **Muhammad Hasnain**
 
 AIDD 30-Day Challenge Participant
+
 
 
