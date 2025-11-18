@@ -45,9 +45,9 @@ Generate a 1-paragraph specification for an email validation function. Requireme
 - Should return clear error messages
 ```
 
-### 🔹 Output (Specification):
+### 🔹 Output (Screenshot):
 
-The email validation function should ensure that the input contains an "@" symbol separating the local part from the domain, and that the domain includes a valid TLD such as .com, .org, or .net. If the input is missing the "@", missing a domain, or includes an invalid TLD, the function must return a specific and human-readable error message explaining the issue. The function should return a boolean indicating validity along with a text message describing the result.
+![CLI Screenshot](./assets/cli-output.png)
 
 ---
 
@@ -74,4 +74,5 @@ This task helped me understand that modern development is no longer just about w
 **Muhammad Hasnain**
 
 AIDD 30-Day Challenge Participant
+
 
