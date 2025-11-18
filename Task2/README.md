@@ -1,5 +1,3 @@
-# 🧠 AI-Driven Development — 30-Day Challenge
-
 ## 📌 Task 2
 
 ---
@@ -74,4 +72,5 @@ This task helped me understand that modern development is no longer just about w
 ## 🚀 Prepared By
 
 **Muhammad Hasnain**
+
 AIDD 30-Day Challenge Participant
