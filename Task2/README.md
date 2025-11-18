@@ -1,4 +1,4 @@
-## 📌 Task 2
+#  Task 2
 
 ---
 
@@ -74,3 +74,4 @@ This task helped me understand that modern development is no longer just about w
 **Muhammad Hasnain**
 
 AIDD 30-Day Challenge Participant
+
