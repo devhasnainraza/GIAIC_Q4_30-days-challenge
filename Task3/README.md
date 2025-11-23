@@ -2,7 +2,7 @@
 
 ---
 
-## 🌟 **PART A — Research Questions (Short Answers)**
+## 🌟 **PART A — Research Questions**
 
 ### **1. What new improvements were introduced in Gemini 3.0?**
 
@@ -31,7 +31,7 @@ Gemini 3.0 can analyze images, PDFs, screenshots, charts, and videos with higher
 
 ---
 
-## 🌟 **PART B — Practical Task (Screenshot Required)**
+## 🌟 **PART B — Practical Task**
 
 ### **Update the Gemini Model to Version 3.0 Using CLI**
 
@@ -64,3 +64,4 @@ gemini model info gemini-3.0
 ![CLI Screenshot](model-list-output.png)
 
 ---
+
